@@ -3,6 +3,7 @@
        1 使用原生的 mysql 还是提供的 API;
        2 mysql 的基础与高级使用;
        3 查询的效率;
+       4 数据库的数据类型对效率的影响;
   2 几种常见的设计模式
        1 bootstrap + mysql + flask;
        2 bootstrap + mysql + django;
