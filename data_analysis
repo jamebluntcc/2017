@@ -1,0 +1,12 @@
+## 数据清洗分析工具
+ - linux 环境下熟悉基本操作 + 进阶的 sed & awk；
+ - python 下的 pandas & numpy；
+ - 在 R 环境下的一套基本分析工具和方案；
+## 数据可视化工具
+ - R ggplo2 & js；
+
+在工具的带领下看完几本比较经典的书籍：
+- machine learning action
+- R machine learing
+这些铺垫后就可以试试 kaggle 的题和一些真实的项目；
+最终走上大数据分析：Hadoop & Spark 的集群处理和部署；
