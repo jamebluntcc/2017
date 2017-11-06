@@ -1,4 +1,4 @@
-## 从 myflask 到 ONMATHLIMS 的设计与思考
+## 从 myflask 到 ONMATHLIMS 再到 snp_index 
 
 ### 基本的设计应该从数据库出发
   - 使用原生的 mysql 还是提供的 API;
@@ -34,3 +34,4 @@
   3 对 python 的web 开发框架的掌握:
   - django;
   - flask;
+ 
